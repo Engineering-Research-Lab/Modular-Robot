@@ -36,10 +36,6 @@ The Modular Robot Head is an innovative, artistic, and industrially designed rob
 
 - **Dimensions**: 20 x 20 x 30 cm
 
-### Image
-
-![Modular Robot Head](https://github.com/Engineering-Research-Lab/Modular-Robot-Head/blob/main/image/modular-robot-head.png)
-
 ## Contact and Support
 
 For further assistance and support, please contact:
