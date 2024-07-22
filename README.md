@@ -1,3 +1,4 @@
+# CBM - Control Bot Mechanism
 # Modular Robot Head Prototype
 
 ![Modular Robot Head](https://github.com/Engineering-Research-Lab/Modular-Robot-Head/blob/main/image/modular-robot-head.png)
