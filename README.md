@@ -40,14 +40,19 @@ The Modular Robot Head is an innovative, artistic, and industrially designed rob
 ## Engineering Research Lab
 Experimental Research and Development in Software and Mechanical Engineering for Artificial Intelligence, Robotics, and Design
 
+<!--
 ### Development Contributions
 
 - **Conceptual Design & Original Architecture**: Lado Oniani  
-- **Control Algorithms Development**: Lado Oniani
 - **Artistic Industrial Design**: Lado Oniani
-- **Programming**: Lado Oniani
+- **Programming & Control Algorithms Development**: Lado Oniani
 - **Mechanical Engineering**: Lado Oniani
 - **Electronic Assembly**: Lado Oniani
+--->
+
+### Development Contributions
+
+Lado Oniani is responsible for the conceptual design and original architecture, artistic industrial design, programming and control algorithms development, mechanical engineering, and electronic assembly of the Modular Robot Head Prototype.
 
 ## Contact and Support
 
