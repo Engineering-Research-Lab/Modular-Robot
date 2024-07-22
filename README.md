@@ -16,7 +16,7 @@ The Modular Robot Head is an innovative, artistic, and industrially designed rob
    - Provides an aesthetic and functional design element.
 
 2. **Neck Movement**:
-   - Supports 1-degree movement along both Y and X axes, allowing for precise head motions.
+   - Supports movement along both the Y and X axes, allowing for precise head motions.
 
 3. **Integrated Camera**:
    - Option to include a video camera inside the capsule for face tracking and coordinated head movement.
