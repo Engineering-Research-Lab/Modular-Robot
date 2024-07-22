@@ -42,7 +42,7 @@ Experimental Research and Development in Software and Mechanical Engineering for
 
 ### Development Contributions
 
-- **Conceptual Design**: Lado Oniani
+- **Conceptual Design & Original Architecture**: Lado Oniani  
 - **Control Algorithms Development**: Lado Oniani
 - **Artistic Industrial Design**: Lado Oniani
 - **Programming**: Lado Oniani
