@@ -2,9 +2,6 @@
 
 ![Modular Robot Head](https://github.com/Engineering-Research-Lab/Modular-Robot-Head/blob/main/image/modular-robot-head.png)
 
-## Engineering Research Lab
-Experimental Research and Development in Software and Mechanical Engineering for Artificial Intelligence, Robotics, and Design
-
 ## Overview
 
 The Modular Robot Head is an innovative, artistic, and industrially designed robotic module that features advanced control algorithms, mechanical engineering, and electronic assembly. It is designed with a transparent face capsule and plastic casing, incorporating a bicolor LED square pixel matrix for displaying emotions and reactions through eyes, nose, and mouth animations. 
@@ -26,6 +23,22 @@ The Modular Robot Head is an innovative, artistic, and industrially designed rob
    - CV (Computer Vision) based control for interactive functionalities.
    - LED animation sequences for expressive outputs.
 
+5. **Face Detection and Tracking**:
+   - **Face Detection and Tracking**: The integrated camera, combined with advanced computer vision algorithms, allows the robot to detect and track faces in real-time.
+   - **Eyes Gaze Following**: The bicolor LED square pixel matrix mimics the eyes of the robot, dynamically adjusting to follow the observer's gaze, creating an interactive and engaging experience.
+   - **Neck Orientation**: The neck movement mechanism is synchronized with the face tracking system, enabling the robot's head to orient towards the observer, enhancing the natural interaction between the robot and its user.
+
+6. **Speech Animation with Visemes**:
+   - The robot head can animate speech using visemes, providing visual representations of phonemes (speech sounds). This enhances the naturalness of the interaction by synchronizing mouth movements with spoken words.
+
+
+### Technical Specifications
+
+- **Dimensions**: 20 x 20 x 30 cm
+- 
+## Engineering Research Lab
+Experimental Research and Development in Software and Mechanical Engineering for Artificial Intelligence, Robotics, and Design
+
 ### Development Contributions
 
 - **Conceptual Design**: Lado Oniani
@@ -34,10 +47,6 @@ The Modular Robot Head is an innovative, artistic, and industrially designed rob
 - **Programming**: Lado Oniani
 - **Mechanical Engineering**: Lado Oniani
 - **Electronic Assembly**: Lado Oniani
-
-### Technical Specifications
-
-- **Dimensions**: 20 x 20 x 30 cm
 
 ## Contact and Support
 
