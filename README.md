@@ -1,6 +1,9 @@
-# Modular Robot Head
+# Modular Robot Head Prototype
 
 ![Modular Robot Head](https://github.com/Engineering-Research-Lab/Modular-Robot-Head/blob/main/image/modular-robot-head.png)
+
+## Engineering Research Lab
+Experimental Research and Development in Software and Mechanical Engineering for Artificial Intelligence, Robotics, and Design
 
 ## Overview
 
