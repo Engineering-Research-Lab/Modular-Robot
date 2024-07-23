@@ -1,5 +1,5 @@
 # CBM - Control Bot Mechanism
-## Modular Robot Head Prototype Device
+## Modular Robot Head Prototype Device: Terbinari BPQ-1
 
 ![Modular Robot Head](https://github.com/Engineering-Research-Lab/Modular-Robot-Head/blob/main/image/cbm-robot-modular-head-(3).png)
 
@@ -102,10 +102,5 @@ Violations of these conditions will result in legal action, including but not li
 ### Technical Specifications
 
 - **Dimensions**: 20 x 20 x 30 cm
-
-### Type and Design 
-
-- Model: Terbinari
-- Serie: BPQ-1
 --->
  
