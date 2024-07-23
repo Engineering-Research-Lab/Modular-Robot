@@ -1,92 +1,62 @@
 # CBM - Control Bot Mechanism
-## Modular Robot Head Prototype Device 
-
-- Model: Terbinari
-- Serie: BPQ-1
+## Modular Robot Head Prototype Device
 
 ![Modular Robot Head](https://github.com/Engineering-Research-Lab/Modular-Robot-Head/blob/main/image/cbm-robot-modular-head-(3).png)
+ 
+### Content
 
-<!--
-![Modular Robot Head](https://github.com/Engineering-Research-Lab/Modular-Robot-Head/blob/main/image/cbm-robot-modular-head-(1).png)
-![Modular Robot Head](https://github.com/Engineering-Research-Lab/Modular-Robot-Head/blob/main/image/cbm-robot-modular-head-(2).png)
-![Modular Robot Head](https://github.com/Engineering-Research-Lab/Modular-Robot-Head/blob/main/image/modular-robot-head.png) --->
-
+- [Overview](#overview)
+- [CBM Control Bot Mechanism](#cbm-control-bot-mechanism)
+- [Functionality](#functionality)
+- [Operating System Application Software Library Interface](#operating-system-application-software-library-interface)
+- [System Requirements](#system-requirements)
+ 
 ## Overview
 
-The Modular Robot Head is an innovative, artistic, and industrially designed robotic module that features advanced control algorithms, mechanical engineering, and electronic assembly. It is designed with a transparent face capsule and plastic casing, incorporating a bicolor LED square pixel matrix for displaying emotions and reactions through eyes, nose, and mouth animations. 
+The Modular Robot Head is an innovative, artistically and industrially designed robotic module that features advanced control algorithms, mechanical engineering, and electronic assembly. It is designed with a transparent face capsule and plastic casing, incorporating a bicolor LED square pixel matrix for displaying emotions and reactions through eyes, nose, and mouth animations. 
 
-### Key Features
+## CBM Control Bot Mechanism 
 
-1. **Transparent Face Capsule**: 
-   - Houses a bicolor LED square pixel matrix for dynamic emotion and reaction representation.
-   - Provides an aesthetic and functional design element.
+The robot's control mechanism delivers a unique and engaging user experience, suitable for educational, therapeutic, and human-robot interaction research settings. Combining software and mechanical R&D, this initiative targets tailored solutions for therapeutic approaches such as Robot-Assisted Therapy/Training (RAT), addressing psychological and neurological conditions. The CBM robot head aims to explore educational and therapeutic applications through human-machine interaction.
 
-2. **Neck Movement**:
-   - Supports movement along both the Y and X axes, allowing for precise head motions.
+[Watch Video](https://user-images.githubusercontent.com/33939191/215345194-faf55f90-1e70-45e1-9a2b-b7fa7a802e75.mp4)
 
-3. **Integrated Camera**:
-   - Option to include a video camera inside the capsule for face tracking and coordinated head movement.
+## Functionality 
 
-4. **Comprehensive Library Functions**:
-   - Motor control algorithms for smooth and accurate movements.
-   - CV (Computer Vision) based control for interactive functionalities.
-   - LED animation sequences for expressive outputs.
+The CBM project presents a modular robot head capsule prototype with facial interactivity functions. It comprises a control application and a humanoid robot device. The control mechanism includes a Speech Viseme Motility Animation display for speech motion. It incorporates a library of functions and software applications.
 
-5. **Face Detection and Tracking**:
-   - **Face Detection and Tracking**: The integrated camera, combined with advanced computer vision algorithms, allows the robot to detect and track faces in real-time.
-   - **Eyes Gaze Following**: The bicolor LED square pixel matrix mimics the eyes of the robot, dynamically adjusting to follow the observer's gaze, creating an interactive and engaging experience.
-   - **Neck Orientation**: The neck movement mechanism is synchronized with the face tracking system, enabling the robot's head to orient towards the observer, enhancing the natural interaction between the robot and its user.
+<img src="https://github.com/ladooniani/Terbinari-CBM-Robot/blob/main/images/terbinari-cbm.jpg" width="700">
 
-6. **Speech Animation with Visemes**:
-   - The robot head can animate speech using visemes, providing visual representations of phonemes (speech sounds). This enhances the naturalness of the interaction by synchronizing mouth movements with spoken words.
+### Speech Animation with Visemes 
 
+- The robot head can animate speech using visemes, providing visual representations of phonemes (speech sounds). This enhances the naturalness of the interaction by synchronizing mouth movements with spoken words.
+- The mechanism performs phonetically synchronized speech with a group of mouth lip movements using 21 visemes, according to the Viseme/Phoneme event set reference: [System.Speech.Synthesis Namespace SpeechSynthesizer.VisemeReached Event](https://docs.microsoft.com/en-us/dotnet/api/system.speech.synthesis.speechsynthesizer.visemereached?view=netframework-4.8)
 
-### Technical Specifications
+### Face Detection and Tracking 
 
-- **Dimensions**: 20 x 20 x 30 cm
-- 
-## Engineering Research Lab
-Experimental Research and Development in Software and Mechanical Engineering for Artificial Intelligence, Robotics, and Design
+- **Face Detection and Tracking**: Integrated video camera inside the capsule for face tracking and coordinated head movement with CV (Computer Vision) usage allows the robot to detect and track faces in real-time.
+- **Eyes Gaze Following**: The bicolor LED square pixel matrix mimics the eyes of the robot, dynamically adjusting to follow the observer's gaze, creating an interactive and engaging experience. Transparent Face Capsule houses a bicolor LED square pixel matrix for dynamic emotion and reaction representation with animation sequences for expressive outputs.
+- **Neck Orientation**: The neck movement mechanism is synchronized with the face tracking system, enabling the robot's head to orient towards the observer, enhancing the natural interaction between the robot and its user. Neck Movement supports movement along both the Y and X axes, allowing for precise head motions.
 
-<!--
-### Development Contributions
+<img src="https://github.com/ladooniani/Terbinari-CBM-Robot/blob/main/images/terbinari-cbm1-2.jpg" width="700">
+ 
+The CBM software and device facilitate interactive conversation via AI chatbot and artificial conversational entities connection, offering flexibility for adoption with existing chatbots and AI systems like ChatGPT, primarily serving as an avatar.
 
-- **Conceptual Design & Original Architecture**: Lado Oniani  
-- **Artistic Industrial Design**: Lado Oniani
-- **Programming & Control Algorithms Development**: Lado Oniani
-- **Mechanical Engineering**: Lado Oniani
-- **Electronic Assembly**: Lado Oniani
---->
+[Watch Video](https://user-images.githubusercontent.com/33939191/215340711-70843c12-77fa-450c-a348-53b3a0926456.mp4)
 
-### Development Contributions
+## Operating System Application Software Library Interface
+ 
+The Humanoid Robot software and device is a tool for interactive training and conversation. It is composed of a chat-bot interface and a humanoid robot control mechanism, which includes a cervical motility device for speech motion and facial detection/recognition. Its robot control mechanism provides a unique and engaging experience for users, making it well-suited for use in educational and therapeutic settings, as well as for human-robot interaction research.
 
-Lado Oniani is responsible for the conceptual design and original architecture, artistic industrial design, programming and control algorithms development, mechanical engineering, and electronic assembly of the Modular Robot Head Prototype device.
+- The robot control mechanism includes eye and head tracking, allowing for eye contact with the user, and lip animation synchronization with speech. 
 
-## Contact and Support
+## System Requirements
 
-For further assistance and support, please contact:
+The CBM software is designed to be compatible with Microsoft Windows operating systems and requires speech synthesis/recognition references.
+The robot control device is powered by a 6V power supply and connects to the computer via USB serial port.
 
-**Developer:**  
-Lado Oniani  
-Email: [expresearchlab@gmail.com](mailto:expresearchlab@gmail.com)  
-GitHub: [Lado Oniani](https://github.com/ladooniani)
+#
 
-**Research Labs:**  
-- [Engineering Research Lab](https://github.com/Engineering-Research-Lab)
-- [Software Research Lab](https://github.com/Software-Research-Lab)
-- [Game Development Lab](https://github.com/Game-Development-Lab)
+📌 [Download PDF](https://github.com/Engineering-Research-Lab/Workflow-Documentation/blob/main/Docs/PDF/Engineering-Research-Lab_CBM-Project.pdf)
 
-## Legal Notice
-
-This document and the associated materials are the intellectual property of Lado Oniani and the Engineering Research Lab. Unauthorized use, reproduction, or distribution of these materials is strictly prohibited and will be pursued to the fullest extent of the law. By accessing this document, you agree to abide by the following conditions:
-
-1. **Confidentiality**: The information contained in this document is confidential and intended solely for the recipient. It is not to be shared with third parties without explicit written permission from Lado Oniani.
-2. **Intellectual Property Rights**: All designs, algorithms, and other intellectual properties described herein are protected under applicable intellectual property laws. Unauthorized use or attempt to reverse-engineer these properties is illegal.
-3. **Non-Commercial Use**: The recipient of this document agrees not to use the information for any commercial purposes without obtaining a formal license from Lado Oniani.
-4. **No Resale or Distribution**: This document and its contents may not be sold or distributed without the prior consent of Lado Oniani. Any such actions will be considered a violation of intellectual property rights.
-
-Violations of these conditions will result in legal action, including but not limited to claims for damages, injunctions, and other legal remedies available under applicable laws.
-
----
-
-© 2016-2024 Lado Oniani Engineering Research. All rights reserved.
+<sub>Copyright © 2016-2024 <a href="https://github.com/Engineering-Research-Lab">Lado Oniani Engineering Research</a>. All rights reserved.</sub>
