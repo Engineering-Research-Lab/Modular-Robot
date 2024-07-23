@@ -10,6 +10,10 @@
 - [Functionality](#functionality)
 - [Operating System Application Software Library Interface](#operating-system-application-software-library-interface)
 - [System Requirements](#system-requirements)
+- [Engineering Research Lab](#engineering-research-lab)
+- [Development Contributions](#development-contributions)
+- [Contact and Support](#contact-and-support)
+- [Legal Notice](#legal-notice)
 
 ## Overview
 
