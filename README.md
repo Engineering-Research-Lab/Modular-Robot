@@ -57,7 +57,7 @@ Experimental Research and Development in Software and Mechanical Engineering for
 
 ### Development Contributions
 
-Lado Oniani is responsible for the conceptual design and original architecture, artistic industrial design, programming and control algorithms development, mechanical engineering, and electronic assembly of the Modular Robot Head Prototype.
+Lado Oniani is responsible for the conceptual design and original architecture, artistic industrial design, programming and control algorithms development, mechanical engineering, and electronic assembly of the Modular Robot Head Prototype device.
 
 ## Contact and Support
 
