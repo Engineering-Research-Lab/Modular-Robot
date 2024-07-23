@@ -46,8 +46,44 @@ Facial detection/recognition enables computer vision face tracking/coordination 
 The CBM software is designed to be compatible with Microsoft Windows operating systems and requires speech synthesis/recognition references.
 The robot control device is powered by a 6V power supply and connects to the computer via a USB serial port.
 
+
+## Engineering Research Lab
+
+Experimental Research and Development in Software and Mechanical Engineering for Artificial Intelligence, Robotics, and Design
+
+### Development Contributions
+
+Lado Oniani is responsible for the conceptual design and original architecture, artistic industrial design, programming and control algorithms development, mechanical engineering, and electronic assembly of the Modular Robot Head Prototype device.
+
+## Contact and Support
+
+For further assistance and support, please contact:
+
+**Developer:**  
+Lado Oniani  
+Email: [expresearchlab@gmail.com](mailto:expresearchlab@gmail.com)  
+GitHub: [Lado Oniani](https://github.com/ladooniani)
+
+**Research Labs:**  
+- [Engineering Research Lab](https://github.com/Engineering-Research-Lab)
+- [Software Research Lab](https://github.com/Software-Research-Lab)
+- [Game Development Lab](https://github.com/Game-Development-Lab)
+
+## Legal Notice
+
+This document and the associated materials are the intellectual property of Lado Oniani and the Engineering Research Lab. Unauthorized use, reproduction, or distribution of these materials is strictly prohibited and will be pursued to the fullest extent of the law. By accessing this document, you agree to abide by the following conditions:
+
+1. **Confidentiality**: The information contained in this document is confidential and intended solely for the recipient. It is not to be shared with third parties without explicit written permission from Lado Oniani.
+2. **Intellectual Property Rights**: All designs, algorithms, and other intellectual properties described herein are protected under applicable intellectual property laws. Unauthorized use or attempt to reverse-engineer these properties is illegal.
+3. **Non-Commercial Use**: The recipient of this document agrees not to use the information for any commercial purposes without obtaining a formal license from Lado Oniani.
+4. **No Resale or Distribution**: This document and its contents may not be sold or distributed without the prior consent of Lado Oniani. Any such actions will be considered a violation of intellectual property rights.
+
+Violations of these conditions will result in legal action, including but not limited to claims for damages, injunctions, and other legal remedies available under applicable laws.
+---
+<sub>Copyright © 2016-2024 <a href="https://github.com/Engineering-Research-Lab">Lado Oniani Engineering Research</a>. All rights reserved.</sub>
+```
 #
 
 📌 [Download PDF](https://github.com/Engineering-Research-Lab/Workflow-Documentation/blob/main/Docs/PDF/Engineering-Research-Lab_CBM-Project.pdf)
 
-<sub>Copyright © 2016-2024 <a href="https://github.com/Engineering-Research-Lab">Lado Oniani Engineering Research</a>. All rights reserved.</sub>
+ 
