@@ -82,10 +82,8 @@ Violations of these conditions will result in legal action, including but not li
 
 ---
 
-© 2016-2024 Lado Oniani Engineering Research. All rights reserved.
-
-<sub>Copyright © 2016-2024 <a href="https://github.com/Engineering-Research-Lab">Lado Oniani Engineering Research</a>. All rights reserved.</sub>
-
+© 2016-2024 [Lado Oniani Engineering Research.](https://github.com/Engineering-Research-Lab) All rights reserved.
+ 
 ---
  
 📌 [Download PDF](https://github.com/Engineering-Research-Lab/Workflow-Documentation/blob/main/Docs/PDF/Engineering-Research-Lab_CBM-Project.pdf)
