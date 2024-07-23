@@ -43,7 +43,9 @@ Facial detection/recognition enables computer vision face tracking/coordination 
 
 The image illustrates the X and Y head movements of the Modular Robot Head. The central two blue quarters of the half-circle represent the zone where the robot's eyes track the observer's face and gaze. The turquoise quarters on either side show the area where the head starts to move, following the eyes' movements, until reaching the edge, which indicates the limit for body movement if tracking an object with vision.
 
-![Modular Robot Head](https://github.com/Engineering-Research-Lab/Modular-Robot-Head/blob/main/image/eyes-and-neck.png)
+<img src="https://github.com/Engineering-Research-Lab/Modular-Robot-Head/blob/main/image/eyes-and-neck.png" alt="Modular Robot Head" width="400" height="300">
+
+<!--- ![Modular Robot Head](https://github.com/Engineering-Research-Lab/Modular-Robot-Head/blob/main/image/eyes-and-neck.png) --->
 
 - **Face Detection and Tracking**: The integrated video camera inside the head capsule allows for real-time face tracking and coordinated head movement using computer vision.
 - **Eyes Gaze Following**: The bicolor LED square pixel matrix mimics the eyes of the robot, dynamically adjusting to follow the observer's gaze, creating an interactive and engaging experience.
