@@ -34,8 +34,6 @@ The CBM project presents a modular robot head capsule prototype with facial inte
 - **Face Detection and Tracking**: Integrated video camera inside the capsule for face tracking and coordinated head movement with CV (Computer Vision) usage allows the robot to detect and track faces in real-time.
 - **Eyes Gaze Following**: The bicolor LED square pixel matrix mimics the eyes of the robot, dynamically adjusting to follow the observer's gaze, creating an interactive and engaging experience. Transparent Face Capsule houses a bicolor LED square pixel matrix for dynamic emotion and reaction representation with animation sequences for expressive outputs.
 - **Neck Orientation**: The neck movement mechanism is synchronized with the face tracking system, enabling the robot's head to orient towards the observer, enhancing the natural interaction between the robot and its user. Neck Movement supports movement along both the Y and X axes, allowing for precise head motions.
-
-<img src="https://github.com/ladooniani/Terbinari-CBM-Robot/blob/main/images/terbinari-cbm1-2.jpg" width="700">
  
 The CBM software and device facilitate interactive conversation via AI chatbot and artificial conversational entities connection, offering flexibility for adoption with existing chatbots and AI systems like ChatGPT, primarily serving as an avatar.
  
