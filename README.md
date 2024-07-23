@@ -45,6 +45,10 @@ Facial detection/recognition enables computer vision face tracking/coordination 
 - **Eyes Gaze Following**: The bicolor LED square pixel matrix mimics the eyes of the robot, dynamically adjusting to follow the observer's gaze, creating an interactive and engaging experience.
 - **Neck Orientation**: The neck movement mechanism is synchronized with the face tracking system, enabling the robot's head to orient towards the observer, enhancing the natural interaction between the robot and its user. Neck movement supports motion along both the Y and X axes, allowing for precise head movements.
 
+
+![Modular Robot Head](https://github.com/Engineering-Research-Lab/Modular-Robot-Head/blob/main/image/modular-robot-head-2.png)
+
+![Modular Robot Head](https://github.com/Engineering-Research-Lab/Modular-Robot-Head/blob/main/image/modular-robot-head-3.png)
 ## System Requirements
 
 The CBM software is designed to be compatible with Microsoft Windows operating systems and requires speech synthesis/recognition references.
