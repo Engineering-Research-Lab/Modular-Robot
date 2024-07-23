@@ -79,11 +79,10 @@ This document and the associated materials are the intellectual property of Lado
 4. **No Resale or Distribution**: This document and its contents may not be sold or distributed without the prior consent of Lado Oniani. Any such actions will be considered a violation of intellectual property rights.
 
 Violations of these conditions will result in legal action, including but not limited to claims for damages, injunctions, and other legal remedies available under applicable laws.
----
+ 
 <sub>Copyright © 2016-2024 <a href="https://github.com/Engineering-Research-Lab">Lado Oniani Engineering Research</a>. All rights reserved.</sub>
-```
-#
-
+ ---
+ 
 📌 [Download PDF](https://github.com/Engineering-Research-Lab/Workflow-Documentation/blob/main/Docs/PDF/Engineering-Research-Lab_CBM-Project.pdf)
 
  
