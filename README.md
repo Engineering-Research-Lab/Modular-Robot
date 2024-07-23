@@ -1,5 +1,6 @@
 # CBM - Control Bot Mechanism
-## Modular Robot Head Prototype Device BPQ-1 model
+## Modular Robot Head Prototype Device 
+##  Model: BPQ-1
 
 ![Modular Robot Head](https://github.com/Engineering-Research-Lab/Modular-Robot-Head/blob/main/image/cbm-robot-modular-head-(3).png)
 
