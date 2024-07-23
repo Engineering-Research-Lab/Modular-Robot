@@ -17,7 +17,7 @@
 
 ## Overview
 
-The Modular Robot Head is an innovative, artistic, and industrially designed robotic module that features advanced control algorithms, mechanical engineering, and electronic assembly. It is designed with a transparent face capsule and plastic casing, incorporating a bicolor LED square pixel matrix for displaying emotions and reactions through eyes, nose, and mouth animations.
+The Modular Robot Head is an innovative, artistic, and industrially designed robotic module that features advanced control algorithms, mechanical engineering, and electronic assembly. It is designed with a transparent face capsule and plastic casing, incorporating a bicolor LED square pixel matrix for displaying emotions and reactions through eyes, nose, and mouth animations. The CBM software and device facilitate interactive conversation via AI chatbot and artificial conversational entities, offering flexibility for adoption with existing chatbots and AI NLP systems like ChatGPT, primarily serving as an avatar.
 
 ## CBM Control Bot Mechanism
 
@@ -29,13 +29,11 @@ The Humanoid Robot software and device is a tool for interactive training and co
 
 ## Functionality
 
-The CBM project presents a modular robot head capsule prototype with facial interactivity functions. It comprises control software and a library of functions for a humanoid robot device.
-
-The CBM software and device facilitate interactive conversation via AI chatbot and artificial conversational entities, offering flexibility for adoption with existing chatbots and AI NLP systems like ChatGPT, primarily serving as an avatar.
+The CBM project presents a modular robot head capsule prototype with facial interactivity functions. The robot control device is powered by a 6V power supply and connects to the computer via a USB serial port.  It comprises control software and a library of functions for a humanoid robot device. 
 
 ### Speech Animation with Visemes
 
-The control mechanism includes a Speech Viseme Motility Animation display for speech animation synchronization with speech lip motion, providing visual representations of phonemes (speech sounds) by synchronizing mouth movements with spoken words. It performs phonetically synchronized speech with mouth positions using 21 visemes according to the Viseme/Phoneme event set reference: [System.Speech.Synthesis Namespace SpeechSynthesizer.VisemeReached Event](https://docs.microsoft.com/en-us/dotnet/api/system.speech.synthesis.speechsynthesizer.visemereached?view=netframework-4.8).
+The control mechanism includes a Speech Viseme Motility Animation display for speech animation synchronization with speech lip motion, providing visual representations of phonemes (speech sounds) by synchronizing mouth movements with spoken words. It performs phonetically synchronized speech with mouth positions using 21 visemes according to the Viseme/Phoneme event set reference: [System.Speech.Synthesis Namespace SpeechSynthesizer.VisemeReached Event](https://docs.microsoft.com/en-us/dotnet/api/system.speech.synthesis.speechsynthesizer.visemereached?view=netframework-4.8). The software is designed to be compatible with Microsoft Windows operating systems and requires speech synthesis/recognition references.
 
 ### Face Detection and Tracking
 
@@ -56,12 +54,6 @@ The image illustrates the X and Y head movements of the Modular Robot Head. The 
 ![Modular Robot Head](https://github.com/Engineering-Research-Lab/Modular-Robot-Head/blob/main/image/modular-robot-head-3.png)
 
 ![Modular Robot Head](https://github.com/Engineering-Research-Lab/Modular-Robot-Head/blob/main/image/modular-robot-head-5.png)
-
-## System Requirements
-
-The CBM software is designed to be compatible with Microsoft Windows operating systems and requires speech synthesis/recognition references.
-The robot control device is powered by a 6V power supply and connects to the computer via a USB serial port.
-
 
 ## Engineering Research Lab
 
