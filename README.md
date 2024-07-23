@@ -49,6 +49,9 @@ Facial detection/recognition enables computer vision face tracking/coordination 
 ![Modular Robot Head](https://github.com/Engineering-Research-Lab/Modular-Robot-Head/blob/main/image/modular-robot-head-2.png)
 
 ![Modular Robot Head](https://github.com/Engineering-Research-Lab/Modular-Robot-Head/blob/main/image/modular-robot-head-3.png)
+
+![Modular Robot Head](https://github.com/Engineering-Research-Lab/Modular-Robot-Head/blob/main/image/modular-robot-head-5.png)
+
 ## System Requirements
 
 The CBM software is designed to be compatible with Microsoft Windows operating systems and requires speech synthesis/recognition references.
