@@ -35,6 +35,7 @@ The CBM project presents a modular robot head capsule prototype with facial inte
 
 The control mechanism includes a Speech Viseme Motility Animation display for speech animation synchronization with speech lip motion, providing visual representations of phonemes (speech sounds) by synchronizing mouth movements with spoken words. It performs phonetically synchronized speech with mouth positions using 21 visemes according to the Viseme/Phoneme event set reference: [System.Speech.Synthesis Namespace SpeechSynthesizer.VisemeReached Event](https://docs.microsoft.com/en-us/dotnet/api/system.speech.synthesis.speechsynthesizer.visemereached?view=netframework-4.8). The software is designed to be compatible with Microsoft Windows operating systems and requires speech synthesis/recognition references.
 
+![Modular Robot Head](https://github.com/Engineering-Research-Lab/Modular-Robot-Head/blob/main/image/modular-robot-mouth.png)
 ### Face Detection and Tracking
 
 Facial detection/recognition enables computer vision face tracking/coordination with eye contact and head movement.
