@@ -97,10 +97,8 @@ Violations of these conditions will result in legal action, including but not li
 
 © 2016-2024 [Lado Oniani Engineering Research.](https://github.com/Engineering-Research-Lab) All rights reserved.
  
+📌 [Download PDF](https://github.com/Engineering-Research-Lab/Modular-Robot-Head/blob/main/image/Modular-Robot-Head_README.md%20at%20main%20%C2%B7%20Engineering-Research-Lab_Modular-Robot-Head.pdf)
  <!---
- 
-📌 [Download PDF](https://github.com/Engineering-Research-Lab/Workflow-Documentation/blob/main/Docs/PDF/Engineering-Research-Lab_CBM-Project.pdf)
-
 ### Technical Specifications
 
 - **Dimensions**: 20 x 20 x 30 cm
