@@ -23,7 +23,7 @@ The CBM (Control Bot Mechanism) architecture provides a consistent method for de
 
 ## Functionality
 
-The CBM modular robot head is designed with facial interactivity functions, using a transparent face capsule, incorporating a bicolor LED square pixel matrix for displaying emotions and reactions through eyes and mouth animations. The robot control device is powered by a 6V power supply and connects to the computer via a USB serial port. It comprises an operating system application software interface and a library of functions for a humanoid robot device. The CBM software and device facilitate interactive conversation via AI chatbot and artificial conversational entities, offering flexibility for adoption with existing chatbots and AI NLP systems like ChatGPT, primarily serving as an avatar.
+The CBM modular robot head is designed with facial interactivity functions, using a transparent face capsule, incorporating a bicolor LED square pixel matrix for displaying emotions and reactions through eyes and mouth animations. The robot control device is powered by a 6V power supply and connects to the computer via a USB serial port. It comprises an operating system application software interface and a library of functions for a humanoid robot device. The CBM software and device facilitate interactive conversation via AI chatbot and artificial conversational entities, offering flexibility for adoption with existing chatbots and AI NLP systems like ChatGPT, primarily serving as an avatar. The CBM robot can be adopted as a module for service robots, functioning as a surrogate device with connectivity access or its own basic functions, thereby expanding the capabilities of various robotic systems.
 
 ### Speech Animation with Visemes
 
