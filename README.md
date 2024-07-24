@@ -47,8 +47,6 @@ Facial detection/recognition enables computer vision face tracking/coordination 
  
 - **Eyes Gaze Following**: The bicolor LED square pixel matrix mimics the eyes of the robot, dynamically adjusting to follow the observer's gaze, creating an interactive and engaging experience.
 
-![Modular Robot Head](https://github.com/Engineering-Research-Lab/Modular-Robot-Head/blob/main/image/modular-robot-head-2.png)
-
 ![Modular Robot Head](https://github.com/Engineering-Research-Lab/Modular-Robot-Head/blob/main/image/modular-robot-head-3.png)
 The image illustrates the X and Y head movements of the Modular Robot Head. The central two blue quarters of the half-circle represent the zone where the robot's eyes track the observer's face and gaze. The turquoise quarters on either side show the area where the head starts to move, following the eyes' movements, until reaching the edge, which indicates the limit for body movement if tracking an object with vision.
 
