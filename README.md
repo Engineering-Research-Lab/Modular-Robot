@@ -8,6 +8,7 @@
 - [CBM Control Bot Mechanism](#cbm-control-bot-mechanism-overview)
 - [Design Architecture Method](#design-architecture-method)
 - [Functionality](#functionality)
+- [Application Control and Customization](#application-control-and-customization)
 - [Engineering Research Lab](#engineering-research-lab)
 - [Development Contributions](#development-contributions)
 - [Contact and Support](#contact-and-support)
@@ -52,6 +53,10 @@ The image illustrates the X and Y head movements of the Modular Robot Head. The 
 - **Neck Orientation**: The neck movement mechanism is synchronized with the face tracking system, enabling the robot's head to orient towards the observer, enhancing the natural interaction between the robot and its user. Neck movement supports motion along both the Y and X axes, allowing for precise head movements.
 
 ![Modular Robot Head](https://github.com/Engineering-Research-Lab/Modular-Robot-Head/blob/main/image/modular-robot-head-5.png)
+
+### Application Control and Customization
+
+The CBM robot is controlled via an application that manages actuator calibration and animation. This application also includes a built-in chatbot control feature, allowing for custom animations and character display sequences for eye movements, mouth expressions, and emotional displays on the robot’s screens. This functionality enables tailored interactions and enhances the versatility of the robot for various applications.
 
 ## Engineering Research Lab
 
