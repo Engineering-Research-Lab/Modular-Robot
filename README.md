@@ -7,7 +7,6 @@
 
 - [CBM Control Bot Mechanism](#cbm-control-bot-mechanism)
 - [Functionality](#functionality)
-- [Operating System Application Software Library Interface](#operating-system-application-software-library-interface)
 - [Engineering Research Lab](#engineering-research-lab)
 - [Development Contributions](#development-contributions)
 - [Contact and Support](#contact-and-support)
