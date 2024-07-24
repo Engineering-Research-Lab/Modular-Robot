@@ -6,6 +6,7 @@
 ## Contents
 
 - [CBM Control Bot Mechanism](#cbm-control-bot-mechanism-overview)
+- [Design Architecture Method](#design-architecture-method)
 - [Functionality](#functionality)
 - [Engineering Research Lab](#engineering-research-lab)
 - [Development Contributions](#development-contributions)
@@ -15,6 +16,10 @@
 ## CBM Control Bot Mechanism Overview
 
 The robot's control mechanism delivers a unique and engaging user experience, suitable for educational, therapeutic, and human-robot interaction research settings. Combining software and mechanical R&D, this initiative targets tailored solutions for therapeutic approaches such as Robot-Assisted Therapy/Training (RAT), addressing psychological and neurological conditions. The CBM robot head aims to explore educational and therapeutic applications through human-machine interaction. The humanoid robot software and device is a tool for interactive training and conversation. It is composed of a chatbot interface and a humanoid robot control mechanism with cervical motility, providing a unique and engaging experience for users. This makes it well-suited for use in educational and therapeutic settings, as well as for human-robot interaction research.
+
+## Design Architecture Method
+
+The CBM (Control Bot Mechanism) architecture provides a consistent method for designing robots, exemplified by various implementations including the Terbinari BPQ-1 model. The CBM method integrates software and mechanical components, ensuring a unified approach to vision-based gaze tracking, LED animations, mechanical eye movements, and neck orientation. While the Terbinari BPQ-1 is one of the robot designs utilizing this method, the underlying CBM principles are maintained across different models. This ensures that core functionalities, such as visual and motion parameters, remain consistent, even though specific processing and implementation details may vary between different types of devices.
 
 ## Functionality
 
