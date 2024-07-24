@@ -5,7 +5,6 @@
 
 ## Contents
 
-- [Overview](#overview)
 - [CBM Control Bot Mechanism](#cbm-control-bot-mechanism)
 - [Functionality](#functionality)
 - [Operating System Application Software Library Interface](#operating-system-application-software-library-interface)
@@ -14,21 +13,13 @@
 - [Contact and Support](#contact-and-support)
 - [Legal Notice](#legal-notice)
 
-## Overview
+## CBM Control Bot Mechanism Overview
 
-The Modular Robot Head is an innovative, artistic, and industrially designed robotic module that features advanced control algorithms, mechanical engineering, and electronic assembly. It is designed with a transparent face capsule and plastic casing, incorporating a bicolor LED square pixel matrix for displaying emotions and reactions through eyes, nose, and mouth animations. The CBM software and device facilitate interactive conversation via AI chatbot and artificial conversational entities, offering flexibility for adoption with existing chatbots and AI NLP systems like ChatGPT, primarily serving as an avatar.
-
-## CBM Control Bot Mechanism
-
-The robot's control mechanism delivers a unique and engaging user experience, suitable for educational, therapeutic, and human-robot interaction research settings. Combining software and mechanical R&D, this initiative targets tailored solutions for therapeutic approaches such as Robot-Assisted Therapy/Training (RAT), addressing psychological and neurological conditions. The CBM robot head aims to explore educational and therapeutic applications through human-machine interaction.
-
-## Operating System Application Software Library Interface
-
-The Humanoid Robot software and device is a tool for interactive training and conversation. It is composed of a chat-bot interface and a humanoid robot control mechanism, which includes a cervical motility device for speech motion and facial detection/recognition. Its robot control mechanism provides a unique and engaging experience for users, making it well-suited for use in educational and therapeutic settings, as well as for human-robot interaction research.
+The robot's control mechanism delivers a unique and engaging user experience, suitable for educational, therapeutic, and human-robot interaction research settings. Combining software and mechanical R&D, this initiative targets tailored solutions for therapeutic approaches such as Robot-Assisted Therapy/Training (RAT), addressing psychological and neurological conditions. The CBM robot head aims to explore educational and therapeutic applications through human-machine interaction. The Humanoid Robot software and device is a tool for interactive training and conversation. It is composed of a chat-bot interface and a humanoid robot control mechanism with cervical motility. Its robot control mechanism provides a unique and engaging experience for users, making it well-suited for use in educational and therapeutic settings, as well as for human-robot interaction research.
 
 ## Functionality
 
-The CBM project presents a modular robot head capsule prototype with facial interactivity functions. The robot control device is powered by a 6V power supply and connects to the computer via a USB serial port.  It comprises control software and a library of functions for a humanoid robot device. 
+The CBM modular robot head is designed with facial interactivity functions, using transparent face capsule, incorporating a bicolor LED square pixel matrix for displaying emotions and reactions through eyes and mouth animations. The robot control device is powered by a 6V power supply and connects to the computer via a USB serial port.  It comprises operating system application software interface and a library of functions for a humanoid robot device. The CBM software and device facilitate interactive conversation via AI chatbot and artificial conversational entities, offering flexibility for adoption with existing chatbots and AI NLP systems like ChatGPT, primarily serving as an avatar.
 
 ### Speech Animation with Visemes
 
@@ -53,8 +44,6 @@ The image illustrates the X and Y head movements of the Modular Robot Head. The 
 <img src="https://github.com/Engineering-Research-Lab/Modular-Robot-Head/blob/main/image/eyes-and-neck.png" alt="Modular Robot Head" height="300">
 
 - **Neck Orientation**: The neck movement mechanism is synchronized with the face tracking system, enabling the robot's head to orient towards the observer, enhancing the natural interaction between the robot and its user. Neck movement supports motion along both the Y and X axes, allowing for precise head movements.
-
-
 
 ![Modular Robot Head](https://github.com/Engineering-Research-Lab/Modular-Robot-Head/blob/main/image/modular-robot-head-5.png)
 
