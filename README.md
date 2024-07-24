@@ -43,11 +43,12 @@ The image illustrates the X and Y head movements of the Modular Robot Head. The 
 
 <img src="https://github.com/Engineering-Research-Lab/Modular-Robot-Head/blob/main/image/eyes-and-neck.png" alt="Modular Robot Head" height="300">
 
-![Modular Robot Head](https://github.com/Engineering-Research-Lab/Modular-Robot-Head/blob/main/image/modular-robot-eyes.png)
-
 <!--- ![Modular Robot Head](https://github.com/Engineering-Research-Lab/Modular-Robot-Head/blob/main/image/eyes-and-neck.png) --->
 
 - **Face Detection and Tracking**: The integrated video camera inside the head capsule allows for real-time face tracking and coordinated head movement using computer vision.
+
+ ![Modular Robot Head](https://github.com/Engineering-Research-Lab/Modular-Robot-Head/blob/main/image/modular-robot-eyes.png)
+ 
 - **Eyes Gaze Following**: The bicolor LED square pixel matrix mimics the eyes of the robot, dynamically adjusting to follow the observer's gaze, creating an interactive and engaging experience.
 - **Neck Orientation**: The neck movement mechanism is synchronized with the face tracking system, enabling the robot's head to orient towards the observer, enhancing the natural interaction between the robot and its user. Neck movement supports motion along both the Y and X axes, allowing for precise head movements.
 
