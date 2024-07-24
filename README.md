@@ -43,6 +43,8 @@ The image illustrates the X and Y head movements of the Modular Robot Head. The 
 
 <img src="https://github.com/Engineering-Research-Lab/Modular-Robot-Head/blob/main/image/eyes-and-neck.png" alt="Modular Robot Head" height="300">
 
+![Modular Robot Head](https://github.com/Engineering-Research-Lab/Modular-Robot-Head/blob/main/image/modular-robot-eyes.png)
+
 <!--- ![Modular Robot Head](https://github.com/Engineering-Research-Lab/Modular-Robot-Head/blob/main/image/eyes-and-neck.png) --->
 
 - **Face Detection and Tracking**: The integrated video camera inside the head capsule allows for real-time face tracking and coordinated head movement using computer vision.
