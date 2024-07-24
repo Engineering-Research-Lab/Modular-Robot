@@ -52,6 +52,8 @@ The image illustrates the X and Y head movements of the Modular Robot Head. The 
 
 Experimental Research and Development in Software and Mechanical Engineering for Artificial Intelligence, Robotics, and Design
 
+The laboratory specializes in developing modular systems with versatile, customizable components. By creating individual parts, the lab ensures seamless integration and essential functionality across various systems. These modules offer a range of features, enhancing application versatility. Custom software, logic development, and independently engineered algorithms ensure each design embodies unique methodologies and technologies. These adaptable systems can be used or integrated into other platforms, emphasizing lightweight, compact, and easy-to-assemble designs with minimal components, achieved through mechanical and operational control solutions. Minimal hardware, a streamlined OS, and core function code libraries facilitate further development and integration.
+
 ### Development Contributions
 
 Lado Oniani is responsible for the conceptual design and original architecture, artistic industrial design, programming and control algorithms development, mechanical engineering, and electronic assembly of the Modular Robot Head Prototype device.
