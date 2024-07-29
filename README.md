@@ -95,8 +95,8 @@ Violations of these conditions will result in legal action, including but not li
 
 ---
 
-![QR Code](https://github.com/Engineering-Research-Lab/Modular-Robot-Head/blob/main/image/qrcode.70410872.png)
-  
+<img src="https://github.com/Engineering-Research-Lab/Modular-Robot-Head/blob/main/image/qrcode.70410872.png" alt="QR Code" width="100"/>
+
 © 2016-2024 [Lado Oniani Engineering Research.](https://github.com/Engineering-Research-Lab) All rights reserved.
  
 📌 [Download PDF](https://github.com/Engineering-Research-Lab/Modular-Robot-Head/blob/main/image/Modular-Robot-Head_README.md%20at%20main%20%C2%B7%20Engineering-Research-Lab_Modular-Robot-Head.pdf)
