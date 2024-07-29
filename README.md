@@ -82,8 +82,6 @@ GitHub: [Lado Oniani](https://github.com/ladooniani)
 - [Software Research Lab](https://github.com/Software-Research-Lab)
 - [Game Development Lab](https://github.com/Game-Development-Lab)
 
-  ![QR Code](https://github.com/Engineering-Research-Lab/Modular-Robot-Head/blob/main/image/qrcode.70410872.png)
-  
 ## Legal Notice
 
 This document and the associated materials are the intellectual property of Lado Oniani and the Engineering Research Lab. Unauthorized use, reproduction, or distribution of these materials is strictly prohibited and will be pursued to the fullest extent of the law. By accessing this document, you agree to abide by the following conditions:
@@ -97,6 +95,8 @@ Violations of these conditions will result in legal action, including but not li
 
 ---
 
+![QR Code](https://github.com/Engineering-Research-Lab/Modular-Robot-Head/blob/main/image/qrcode.70410872.png)
+  
 © 2016-2024 [Lado Oniani Engineering Research.](https://github.com/Engineering-Research-Lab) All rights reserved.
  
 📌 [Download PDF](https://github.com/Engineering-Research-Lab/Modular-Robot-Head/blob/main/image/Modular-Robot-Head_README.md%20at%20main%20%C2%B7%20Engineering-Research-Lab_Modular-Robot-Head.pdf)
