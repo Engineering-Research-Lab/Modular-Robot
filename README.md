@@ -82,6 +82,8 @@ GitHub: [Lado Oniani](https://github.com/ladooniani)
 - [Software Research Lab](https://github.com/Software-Research-Lab)
 - [Game Development Lab](https://github.com/Game-Development-Lab)
 
+  ![QR Code](path/to/your/qr-code.png)
+
 ## Legal Notice
 
 This document and the associated materials are the intellectual property of Lado Oniani and the Engineering Research Lab. Unauthorized use, reproduction, or distribution of these materials is strictly prohibited and will be pursued to the fullest extent of the law. By accessing this document, you agree to abide by the following conditions:
