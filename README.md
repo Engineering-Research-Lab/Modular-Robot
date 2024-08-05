@@ -49,7 +49,7 @@ Facial detection/recognition enables computer vision face tracking/coordination 
 
 The image illustrates the X and Y head movements of the Modular Robot Head. The central two blue quarters of the half-circle represent the zone where the robot's eyes track the observer's face and gaze. The turquoise quarters on either side show the area where the head starts to move, following the eyes' movements, until reaching the edge, which indicates the limit for body movement if tracking an object with vision.
 
-<img src="https://github.com/Engineering-Research-Lab/Modular-Robot-Head/blob/main/image/eyes-and-neck.png" alt="Modular Robot Head" height="300">
+<img src="https://github.com/Engineering-Research-Lab/Modular-Robot-Head/blob/main/image/eyes-and-neck.png" alt="Modular Robot Head" height="200">
 
 - **Neck Orientation**: The neck movement mechanism is synchronized with the face tracking system, enabling the robot's head to orient towards the observer, enhancing the natural interaction between the robot and its user. Neck movement supports motion along both the Y and X axes, allowing for precise head movements.
 
