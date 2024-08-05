@@ -55,21 +55,19 @@ The image illustrates the X and Y head movements of the Modular Robot Head. The 
 
 ![Modular Robot Head](https://github.com/Engineering-Research-Lab/Modular-Robot-Head/blob/main/image/modular-robot-head-5.png)
 
-# Torso module
-
 # Torso Module
 
 ![Modular Robot Torso](https://github.com/Engineering-Research-Lab/Modular-Robot-Head/blob/main/image/cbm-robot-modular-torso-(1).png)
 
-The torso module of the CBM Control Bot Mechanism features an insert for attaching the head module and a connector for the pelvic part of the platform.
+The module includes a default single degree of freedom shoulder rotational mechanism actuated by a Y-axis servo motor, which allows for shoulder movement. Additionally, it incorporates a socket to control an additional degree of freedom for the shoulder, facilitating X-axis actuation. The torso itself also supports X-axis rotational movement, enhancing the overall flexibility and range of motion for the robot.
 
 ![Modular Robot Torso](https://github.com/Engineering-Research-Lab/Modular-Robot-Head/blob/main/image/cbm-robot-modular-torso-(2).png)
 
-The module includes a default single degree of freedom shoulder rotational mechanism actuated by a Y-axis servo motor, which allows for shoulder movement. Additionally, it incorporates a socket to control an additional degree of freedom for the shoulder, facilitating X-axis actuation. The torso itself also supports X-axis rotational movement, enhancing the overall flexibility and range of motion for the robot.
+This setup ensures precise and controlled movements, making the robot highly adaptable for various tasks and interactions.
 
 ![Modular Robot Torso](https://github.com/Engineering-Research-Lab/Modular-Robot-Head/blob/main/image/cbm-robot-modular-torso-(3).png)
 
-This setup ensures precise and controlled movements, making the robot highly adaptable for various tasks and interactions.
+The torso module of the CBM Control Bot Mechanism features an insert for attaching the head module and a connector for the pelvic part of the platform.
 
 ### Application Control and Customization
 
